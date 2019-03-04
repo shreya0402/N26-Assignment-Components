@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>Email_BodyMessage1</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Email_BodyMessage1</shortDescription>
+        <value>please fill out our survey:</value>
+    </labels>
+    <labels>
+        <fullName>Message</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Message1</shortDescription>
+        <value>Hey</value>
+    </labels>
+    <labels>
+        <fullName>Record_Limit</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Record Limit</shortDescription>
+        <value>15</value>
+    </labels>
+</CustomLabels>

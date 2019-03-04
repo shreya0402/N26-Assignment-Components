@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Translations xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customLabels>
+        <label>bitte fülle unsere Umfrage aus:</label>
+        <name>Email_BodyMessage1</name>
+    </customLabels>
+    <customLabels>
+        <label>Hey</label>
+        <name>Message</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Record Limit --></label>
+        <name>Record_Limit</name>
+    </customLabels>
+    <customTabs>
+        <label><!-- Account Locator --></label>
+        <name>Account_Locator</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- AttachMultipleFiles --></label>
+        <name>AttachMultipleFiles</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- ContactList --></label>
+        <name>ContactList</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Data Import --></label>
+        <name>Data_Import</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Expense --></label>
+        <name>Expense</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Leads --></label>
+        <name>Leads</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- MyData --></label>
+        <name>MyData</name>
+    </customTabs>
+</Translations>
