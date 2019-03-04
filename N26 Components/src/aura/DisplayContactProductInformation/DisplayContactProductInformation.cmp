@@ -1,0 +1,28 @@
+<aura:component implements="flexipage:availableForRecordHome,force:hasRecordId" access="global" controller="DisplayProductInformation">
+	<aura:attribute name="recordId" type="String" />
+    <aura:attribute name="contactProductInfoList" type="Product_Information__c[]"/> 
+    <aura:handler name="init" value="{!this}" action="{!c.getProductInfo}"/>
+    
+    <table class="slds-table slds-table_cell-buffer slds-table_bordered">
+    	<thead>
+            <tr class="slds-line-height_reset">
+                <th class="" scope="col">{!v.contactProductInfoList[0].Home_Country__c}</th>
+            	<aura:iteration items="{!v.contactProductInfoList}" var="prod">                   
+                    <th class="" scope="col">{!prod.Product_Attribute__c}</th>
+                    
+                </aura:iteration>
+            </tr>
+        </thead>
+        <tbody>
+            <tr class="slds-hint-parent">
+                <td>{!v.contactProductInfoList[0].Product__r.Name}</td>
+            	<aura:iteration items="{!v.contactProductInfoList}" var="prod">                   
+                    <td>{!prod.Cost__c}</td>
+                    
+                    
+                </aura:iteration>
+            </tr>
+        </tbody>
+    </table>
+    
+</aura:component>
