@@ -1,0 +1,47 @@
+Name,Product__c,Product_Attribute__c,Cost__c,Home_Country__c
+PI-019,01t7F000006rAtlQAE,Cost per Calender Month,"€9,90",ES
+PI-005,01t7F000006rAhhQAE,Cost per Calender Month,£0,UK
+PI-018,01t7F000006rAtlQAE,Cost per Calender Month,"€9,90",FR
+PI-022,01t7F000006rAtlQAE,ATM Fee in other currencies,FREE,DE
+PI-023,01t7F000006rAtlQAE,ATM Fee in other currencies,FREE,FR
+PI-027,01t7F000006rAtlQAE,Card Replacement Cost,6,DE
+PI-028,01t7F000006rAtlQAE,Card Replacement Cost,6,FR
+PI-010,01t7F000006rAhhQAE,ATM Fee in other currencies,1.70%,IT
+PI-002,01t7F000006rAhhQAE,Cost per Calender Month,0,FR
+PI-006,01t7F000006rAhhQAE,ATM Fee in other currencies,1.70%,DE
+PI-025,01t7F000006rAtlQAE,ATM Fee in other currencies,FREE,IT
+PI-044,01t7F000006rAtqQAE,Card Replacement Cost,45,ES
+PI-008,01t7F000006rAhhQAE,ATM Fee in other currencies,1.70%,ES
+PI-014,01t7F000006rAhhQAE,Card Replacement Cost,6,ES
+PI-021,01t7F000006rAtlQAE,Cost per Calender Month,N/a,UK
+PI-035,01t7F000006rAtqQAE,Cost per Calender Month,"€16,90",IT
+PI-046,01t7F000006rAtqQAE,Card Replacement Cost,£45,UK
+PI-034,01t7F000006rAtqQAE,Cost per Calender Month,"€16,90",ES
+PI-012,01t7F000006rAhhQAE,Card Replacement Cost,6,DE
+PI-004,01t7F000006rAhhQAE,Cost per Calender Month,0,IT
+PI-029,01t7F000006rAtlQAE,Card Replacement Cost,6,ES
+PI-016,01t7F000006rAhhQAE,Card Replacement Cost,£6,UK
+PI-003,01t7F000006rAhhQAE,Cost per Calender Month,0,ES
+PI-026,01t7F000006rAtlQAE,ATM Fee in other currencies,FREE,UK
+PI-038,01t7F000006rAtqQAE,ATM Fee in other currencies,FREE,FR
+PI-041,01t7F000006rAtqQAE,ATM Fee in other currencies,FREE,UK
+PI-007,01t7F000006rAhhQAE,ATM Fee in other currencies,1.70%,FR
+PI-001,01t7F000006rAhhQAE,Cost per Calender Month,0,DE
+PI-036,01t7F000006rAtqQAE,Cost per Calender Month,N/a,UK
+PI-011,01t7F000006rAhhQAE,ATM Fee in other currencies,1.70%,UK
+PI-030,01t7F000006rAtlQAE,Card Replacement Cost,6,IT
+PI-040,01t7F000006rAtqQAE,ATM Fee in other currencies,FREE,IT
+PI-013,01t7F000006rAhhQAE,Card Replacement Cost,6,FR
+PI-031,01t7F000006rAtlQAE,Card Replacement Cost,£6,UK
+PI-032,01t7F000006rAtqQAE,Cost per Calender Month,"€16,90",DE
+PI-039,01t7F000006rAtqQAE,ATM Fee in other currencies,FREE,ES
+PI-015,01t7F000006rAhhQAE,Card Replacement Cost,6,IT
+PI-020,01t7F000006rAtlQAE,Cost per Calender Month,"€9,90",IT
+PI-024,01t7F000006rAtlQAE,ATM Fee in other currencies,FREE,ES
+PI-043,01t7F000006rAtqQAE,Card Replacement Cost,45,FR
+PI-037,01t7F000006rAtqQAE,ATM Fee in other currencies,FREE,DE
+PI-042,01t7F000006rAtqQAE,Card Replacement Cost,45,DE
+PI-045,01t7F000006rAtqQAE,Card Replacement Cost,45,IT
+PI-017,01t7F000006rAtlQAE,Cost per Calender Month,"€9,90",DE
+PI-033,01t7F000006rAtqQAE,Cost per Calender Month,"€16,90",FR
+PI-009,01t7F000006rAhhQAE,ATM Fee in other currencies,1.70%,ES
