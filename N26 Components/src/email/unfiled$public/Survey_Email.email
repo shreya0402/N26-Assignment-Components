@@ -1,0 +1,11 @@
+<messaging:emailTemplate subject="Survey" recipientType="Contact"  language="{!recipient.Language__c}">
+ <messaging:htmlEmailBody >
+        <html>
+                <body>
+                <p>{!$Label.Message} {!recipient.name},</p>
+                <p>{!$Label.Email_BodyMessage1} http://n26.com/survey/{!recipient.Id}</p>
+                
+                </body>
+        </html>
+</messaging:htmlEmailBody>
+</messaging:emailTemplate>
